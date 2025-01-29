@@ -1,4 +1,9 @@
 h1{
     color: gold;
     text-shadow: 20px 20px 0px green, -20px -20px 0px red;
+    text-align: center;
+    font-size: 64px;
+    margin-top: 200px;
+    padding: 200px 200px;
+    background-image: url(https://media.istockphoto.com/id/1204641187/video/fire-cartoon-wildfire-small-to-big-step-animation-hand-drawn.jpg?s=640x640&k=20&c=FBQEtLXxIyyzs-Vdr4TOrXKWsEtZYV73DoIyZkQQMqI=);
 }
